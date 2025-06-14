@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Shivam Gupta  
+- Certification: Meta React Native Specialization  
 
 ## Instructions
 Please replace the placeholders with your details:
